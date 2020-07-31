@@ -1,13 +1,13 @@
-baseURL = "https://www.example.com"
+baseURL = "https://www.gauravsarraf.dev"
 languageCode = "en-us"
-title = "title"
+title = sarrafgsarraf"
 copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 theme = "npq-hugo"
 pygmentsUseClasses=true
 
 [params]
-  author = "your name"
-  description = "your description"
+  author = "Gaurav Sarraf"
+  description = "Trial"
   keywords = "hugo blog"
   useAvatar = true
   microBlogSection = "posts"
@@ -15,8 +15,8 @@ pygmentsUseClasses=true
   displayRecent = true
   displayHomeContent = false
   recentMax = 4
-  mail = "mail@example.com"
-  phone = "8888888888"
+  mail = "sarrafgsarraf@gmail.com"
+  phone = "+918431509609"
   formspreeID = "yourformspreeID"
 
 [menu]
