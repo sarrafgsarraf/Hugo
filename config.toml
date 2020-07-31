@@ -1,7 +1,7 @@
 baseURL = "https://www.gauravsarraf.dev"
 languageCode = "en-us"
-title = sarrafgsarraf"
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+title = "sarrafgsarraf"
+copyright = "Copyright © 2008–2019, Gaurav Sarraf and the Hugo Authors; all rights reserved."
 theme = "npq-hugo"
 pygmentsUseClasses=true
 
